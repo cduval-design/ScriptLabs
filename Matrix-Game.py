@@ -7,8 +7,8 @@ def header():
     # "Clear" the screen (not available in IDLE)
     print("\n" * 100)
 
-    print("Name: Duval, McKenna")
-    print("Course: ITSY 1375-9P1")
+    print("Name: LastName, FirstName")
+    print("Course: Course-Number")
     print("Assignment: Lab 3.5 - Python Flow Control")
     print("Current Date:", date.today())
 
