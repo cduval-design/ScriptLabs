@@ -1,2 +1,2 @@
 # Educational Assignments
-Various scripts I created for assignments while earning my degree.
+Various scripts I created for school assignments.
