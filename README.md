@@ -1,2 +1,2 @@
-# Matrix-Game
-A school assignment, where I had to use Python to code a game using a grid and randomized variables.
+# Educational Assignments
+Various scripts I created for assignments while earning my degree.
